@@ -1,1 +1,1 @@
-# WEB_D_ASSIGNMENT
+Web Designing Workshop-1 (1st Sem, 2026-2027) HTML5 & CSS3 assignments by Anas (CSE-3, 2026B01010444). Features 18 practicals covering semantic layout, lists, multimedia, accessibility, complex tables, validated forms, and an accessible student admission mini-project, organized with clean commits.
